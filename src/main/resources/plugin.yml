@@ -1,0 +1,8 @@
+name: GymRoleplay
+version: 1.0
+main: luden.gym.Main
+api-version: 1.17
+softdepend: [WorldGuard, WorldEdit]
+commands:
+  gympesas:
+  gymcorrer:

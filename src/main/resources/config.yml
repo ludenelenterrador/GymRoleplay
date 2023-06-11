@@ -1,0 +1,10 @@
+# Config-Gym: %time% |
+CoolDown: "Debes esperar %time% segundos antes de poder utilizar el comando nuevamente."
+Region-Pesas: "pesas"
+Region-Velocidad: "velocidad"
+# Config-Gym-Pesas-Correr: %fuerzanueva% | %velocidadnueva% |
+Mensaje-1: "¡Estás haciendo ejercicio!"
+Mensaje-2: "Espera 30 segundos..."
+Mensaje-3: "¡Has terminado de entrenar!"
+Mensaje-4: "¡Ahora tienes %fuerzanueva% de fuerza!"
+Mensaje-5: "¡Ahora tienes %velocidadnueva% de velocidad!"
